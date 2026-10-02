@@ -1,0 +1,4 @@
+interface:
+  display_name: "小说续写助手"
+  short_description: "根据设定与大纲续写小说，并生成人物小传、场景与剧情分支"
+  default_prompt: "请使用 $novel-writer-assistant，根据我提供的世界观、人物设定、大纲或片段续写正文，并生成人物状态、伏笔提示与后续剧情方向。"
